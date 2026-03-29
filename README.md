@@ -90,10 +90,14 @@ Após a instalação, a rede foi montada fisicamente no laboratório.
 Etapas realizadas:
 
 ![Teste](Teste.jpeg)
-![Test2](Test2.jpeg)
+
+![impressora](impressora.jpg)
 
 
 Testes:
+
+![Test2](Test2.jpeg)
+![clientes](clientes.jpg)
 
 ---
 
